@@ -7,7 +7,6 @@ This program is a GUI program that will display a cupcake ordering system for th
 from tkinter import * # This line will take the all the built in function from tkinter and allow this program to use them.
 from tkinter import messagebox # This line takes the built in messagebox function from tkinter.
 from tkinter import PhotoImage # This line will take the build in photoimage function from tkinter.
-from PIL import Image, ImageTk # This line takes the image function from PIL.
 root = Tk() # Purpose of the root variable is to create a window.
 root.title("Cupcake Ordering") # This line titles the window.
 root.geometry("700x700") # This line is how big the window will be when the program is opened.
