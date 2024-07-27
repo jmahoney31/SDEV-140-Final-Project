@@ -1,6 +1,6 @@
 """
 Author: Jade Mahoney
-Date: 7/26/2024
+Date: 7/27/2024
 Assignemnt: Module 08 Final Project 
 This program is a GUI program that will display a cupcake ordering system for the user to input how many dozen of each flavor of cupcake they want. After the user is finished ordering and they click check out so they can see the total price for the cupcakes they ordered. 
 """
